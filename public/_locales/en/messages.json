@@ -1,0 +1,14 @@
+{
+    "appTitle": {
+        "message": "Extension",
+        "description": "The extension title"
+    },
+    "appDescription": {
+        "message": "a extension template in manifest V3 build by vue3+vite+tailwindcss",
+        "description": "the description of this chrome extension"
+    },
+    "actionTitle": {
+        "message": "Extension",
+        "description": "the content show when mouse hover the icon of this chrome extension in browser toolbar"
+    }
+}

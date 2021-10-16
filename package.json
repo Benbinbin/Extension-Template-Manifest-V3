@@ -1,0 +1,25 @@
+{
+  "name": "extension-vue3-vite-tailwindcss-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "watch": "vite build --watch"
+  },
+  "dependencies": {
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.3.7",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-vue": "^7.19.1",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.17",
+    "vite": "^2.6.4",
+    "vite-plugin-vue-crx3": "^1.0.8"
+  }
+}
